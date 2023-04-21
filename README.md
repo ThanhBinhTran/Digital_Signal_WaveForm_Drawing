@@ -1,4 +1,4 @@
-# Digital signal waveform
+# Digital signal waveform drawing
 This tool (digital signal waveform) draws signals of digital circuits for educational purposes.
 ### Usage:
 ``` python main.py ```
