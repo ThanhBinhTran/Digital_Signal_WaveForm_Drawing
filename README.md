@@ -19,11 +19,12 @@
 
 <img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_Regex.jpg">
 
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_sequence.jpg">
 
-<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_timming_example1.jpg">
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_timing_example1.jpg">
 
 
-<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_example2.jpg">
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_timing_example2.jpg">
 
 
 <img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_usercase.jpg">
