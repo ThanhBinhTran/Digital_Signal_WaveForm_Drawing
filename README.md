@@ -1,7 +1,32 @@
 ##  I found usefull and free tool for UML
 
 # https://www.plantuml.com/
+### some example 
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_activity.png">
 
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_activity.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_class.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_grantt.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_mindmap.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_Regex.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_timming_example1.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_example2.png">
+
+
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_usercase.png">
 
 following is my tool ,but when i found https://www.plantuml.com/, my tool is 100% useless =)) .
 ### Digital signal waveform drawing
@@ -9,7 +34,7 @@ This tool (digital signal waveform) draws signals of digital circuits for educat
 ### Usage:
 ``` python main.py ```
 ### Result:
-<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/wf_img.png" width="500" alt="digital signal waveform">
+<img src="https://github.com/ThanhBinhTran/Digital_Signal_WaveForm/blob/master/img_wf.png" width="500" alt="digital signal waveform">
 
 Enjoy your custom digital signals waveform by editing signals in main.py. You can save your work in pdf, png (image), pgf(latex) format or whatever format that the Matplotlib supports :))
 
